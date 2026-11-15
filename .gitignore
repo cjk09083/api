@@ -1,6 +1,7 @@
 .DS_Store
 **/.DS_Store
 .venv-mps/
+.venv-anomalib/
 .cursor/
 
 *.pdf
